@@ -1,0 +1,63 @@
+Details of the customer 1 : 
+Customer name :sam
+Customer address :delhi
+Customer phone number : 27687
+Customer user Name : sa
+Customer password : 123
+
+Details of the customer 1 : 
+Customer name :samarth
+Customer address :vns
+Customer phone number : 173458
+Customer user Name : sam
+Customer password : 123
+
+Details of the customer 2 : 
+Customer name :rajat
+Customer address :gorakhpur
+Customer phone number : 27369214
+Customer user Name : raj
+Customer password : 124
+
+Details of the customer 1 : 
+Customer name :samarth
+Customer address :vns
+Customer phone number : 291746
+Customer user Name : sam
+Customer password : 123
+
+Details of the customer 1 : 
+Customer name :Aditya
+Customer address :jaypee
+Customer phone number : 34385069238
+Customer user Name : adi
+Customer password : 1234
+
+Details of the customer 1 : 
+Customer name :aditya
+Customer address :hapur
+Customer phone number : 12345678909
+Customer user Name : sam
+Customer password : 1234
+
+Details of the customer 1 : 
+Customer name :aditya
+Customer address :hapur
+Customer phone number : 12345678901
+Customer user Name : adi
+Customer password : 1234
+
+Details of the customer 2 : 
+Customer name :milk
+Customer address :
+Customer phone number : 
+Customer user Name : 
+Customer password : 
+
+Details of the customer 1 : 
+Customer name :samarth
+Customer address :vns
+Customer phone number : 346723895
+Customer user Name : sam
+Customer password : 123
+
